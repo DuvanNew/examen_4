@@ -1,0 +1,32 @@
+h1 {
+	font-family: 'Anton', sans-serif;
+	color:FF0000;
+	}
+	
+ol {
+	font-family:'Dancing Script', cursive;
+	color:ff8000;
+	}
+P	{
+	font-family: 'Anton', sans-serif;
+	color:FFF;
+	}
+body {
+	 background-image:url("../img/fondoss.jpg")
+	}
+
+table {
+ 
+
+  border: red 2px solid;
+}
+
+ul {
+	font-family:'Dancing Script', cursive;
+	color:FF0000;
+	}
+
+th {
+	font-family:'Dancing Script', cursive;
+	color:FFFF00;
+	}
